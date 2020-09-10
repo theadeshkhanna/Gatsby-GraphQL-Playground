@@ -15,6 +15,7 @@ const Menu = () => {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About Us</Link></li>
         <li><Link to="/service">Our Services</Link></li>
+        <li><Link to="/blog">Blogs</Link></li>
       </ul>
     </div>
   );
